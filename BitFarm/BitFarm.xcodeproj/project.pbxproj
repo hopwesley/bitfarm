@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		695F285726C256AC000D6AED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F285626C256AC000D6AED /* AppDelegate.swift */; };
-		695F285926C256AC000D6AED /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 695F285826C256AC000D6AED /* GameScene.sks */; };
-		695F285B26C256AC000D6AED /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 695F285A26C256AC000D6AED /* Actions.sks */; };
-		695F285D26C256AC000D6AED /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F285C26C256AC000D6AED /* GameScene.swift */; };
-		695F285F26C256AC000D6AED /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F285E26C256AC000D6AED /* GameViewController.swift */; };
-		695F286226C256AC000D6AED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695F286026C256AC000D6AED /* Main.storyboard */; };
-		695F286426C256AD000D6AED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695F286326C256AD000D6AED /* Assets.xcassets */; };
+		695F287C26C25DA7000D6AED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F287B26C25DA7000D6AED /* AppDelegate.swift */; };
+		695F287E26C25DA7000D6AED /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 695F287D26C25DA7000D6AED /* GameScene.sks */; };
+		695F288026C25DA7000D6AED /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 695F287F26C25DA7000D6AED /* Actions.sks */; };
+		695F288226C25DA7000D6AED /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F288126C25DA7000D6AED /* GameScene.swift */; };
+		695F288426C25DA7000D6AED /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695F288326C25DA7000D6AED /* GameViewController.swift */; };
+		695F288726C25DA7000D6AED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695F288526C25DA7000D6AED /* Main.storyboard */; };
+		695F288926C25DA8000D6AED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695F288826C25DA8000D6AED /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		695F285326C256AB000D6AED /* BitFarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BitFarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		695F285626C256AC000D6AED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		695F285826C256AC000D6AED /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		695F285A26C256AC000D6AED /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		695F285C26C256AC000D6AED /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		695F285E26C256AC000D6AED /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		695F286126C256AC000D6AED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		695F286326C256AD000D6AED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		695F286B26C25806000D6AED /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
+		695F287826C25DA7000D6AED /* BitFarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BitFarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		695F287B26C25DA7000D6AED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		695F287D26C25DA7000D6AED /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		695F287F26C25DA7000D6AED /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		695F288126C25DA7000D6AED /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		695F288326C25DA7000D6AED /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		695F288626C25DA7000D6AED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		695F288826C25DA8000D6AED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		695F288A26C25DA8000D6AED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		695F285026C256AB000D6AED /* Frameworks */ = {
+		695F287526C25DA7000D6AED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,33 +39,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		695F284A26C256AB000D6AED = {
+		695F286F26C25DA7000D6AED = {
 			isa = PBXGroup;
 			children = (
-				695F285526C256AB000D6AED /* BitFarm */,
-				695F285426C256AB000D6AED /* Products */,
+				695F287A26C25DA7000D6AED /* BitFarm */,
+				695F287926C25DA7000D6AED /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		695F285426C256AB000D6AED /* Products */ = {
+		695F287926C25DA7000D6AED /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				695F285326C256AB000D6AED /* BitFarm.app */,
+				695F287826C25DA7000D6AED /* BitFarm.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		695F285526C256AB000D6AED /* BitFarm */ = {
+		695F287A26C25DA7000D6AED /* BitFarm */ = {
 			isa = PBXGroup;
 			children = (
-				695F285626C256AC000D6AED /* AppDelegate.swift */,
-				695F285826C256AC000D6AED /* GameScene.sks */,
-				695F285A26C256AC000D6AED /* Actions.sks */,
-				695F285C26C256AC000D6AED /* GameScene.swift */,
-				695F285E26C256AC000D6AED /* GameViewController.swift */,
-				695F286026C256AC000D6AED /* Main.storyboard */,
-				695F286326C256AD000D6AED /* Assets.xcassets */,
-				695F286C26C25806000D6AED /* Info.plist */,
+				695F287B26C25DA7000D6AED /* AppDelegate.swift */,
+				695F287D26C25DA7000D6AED /* GameScene.sks */,
+				695F287F26C25DA7000D6AED /* Actions.sks */,
+				695F288126C25DA7000D6AED /* GameScene.swift */,
+				695F288326C25DA7000D6AED /* GameViewController.swift */,
+				695F288526C25DA7000D6AED /* Main.storyboard */,
+				695F288826C25DA8000D6AED /* Assets.xcassets */,
+				695F288A26C25DA8000D6AED /* Info.plist */,
 			);
 			path = BitFarm;
 			sourceTree = "<group>";
@@ -73,13 +73,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		695F285226C256AB000D6AED /* BitFarm */ = {
+		695F287726C25DA7000D6AED /* BitFarm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 695F286826C256AD000D6AED /* Build configuration list for PBXNativeTarget "BitFarm" */;
+			buildConfigurationList = 695F288D26C25DA8000D6AED /* Build configuration list for PBXNativeTarget "BitFarm" */;
 			buildPhases = (
-				695F284F26C256AB000D6AED /* Sources */,
-				695F285026C256AB000D6AED /* Frameworks */,
-				695F285126C256AB000D6AED /* Resources */,
+				695F287426C25DA7000D6AED /* Sources */,
+				695F287526C25DA7000D6AED /* Frameworks */,
+				695F287626C25DA7000D6AED /* Resources */,
 			);
 			buildRules = (
 			);
@@ -87,24 +87,24 @@
 			);
 			name = BitFarm;
 			productName = BitFarm;
-			productReference = 695F285326C256AB000D6AED /* BitFarm.app */;
+			productReference = 695F287826C25DA7000D6AED /* BitFarm.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		695F284B26C256AB000D6AED /* Project object */ = {
+		695F287026C25DA7000D6AED /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					695F285226C256AB000D6AED = {
+					695F287726C25DA7000D6AED = {
 						CreatedOnToolsVersion = 12.5.1;
 					};
 				};
 			};
-			buildConfigurationList = 695F284E26C256AB000D6AED /* Build configuration list for PBXProject "BitFarm" */;
+			buildConfigurationList = 695F287326C25DA7000D6AED /* Build configuration list for PBXProject "BitFarm" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,64 +112,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 695F284A26C256AB000D6AED;
-			productRefGroup = 695F285426C256AB000D6AED /* Products */;
+			mainGroup = 695F286F26C25DA7000D6AED;
+			productRefGroup = 695F287926C25DA7000D6AED /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				695F285226C256AB000D6AED /* BitFarm */,
+				695F287726C25DA7000D6AED /* BitFarm */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		695F285126C256AB000D6AED /* Resources */ = {
+		695F287626C25DA7000D6AED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				695F286226C256AC000D6AED /* Main.storyboard in Resources */,
-				695F285926C256AC000D6AED /* GameScene.sks in Resources */,
-				695F286426C256AD000D6AED /* Assets.xcassets in Resources */,
-				695F285B26C256AC000D6AED /* Actions.sks in Resources */,
+				695F288726C25DA7000D6AED /* Main.storyboard in Resources */,
+				695F287E26C25DA7000D6AED /* GameScene.sks in Resources */,
+				695F288926C25DA8000D6AED /* Assets.xcassets in Resources */,
+				695F288026C25DA7000D6AED /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		695F284F26C256AB000D6AED /* Sources */ = {
+		695F287426C25DA7000D6AED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				695F285D26C256AC000D6AED /* GameScene.swift in Sources */,
-				695F285F26C256AC000D6AED /* GameViewController.swift in Sources */,
-				695F285726C256AC000D6AED /* AppDelegate.swift in Sources */,
+				695F288226C25DA7000D6AED /* GameScene.swift in Sources */,
+				695F288426C25DA7000D6AED /* GameViewController.swift in Sources */,
+				695F287C26C25DA7000D6AED /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		695F286026C256AC000D6AED /* Main.storyboard */ = {
+		695F288526C25DA7000D6AED /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				695F286126C256AC000D6AED /* Base */,
+				695F288626C25DA7000D6AED /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		695F286C26C25806000D6AED /* Info.plist */ = {
-			isa = PBXVariantGroup;
-			children = (
-				695F286B26C25806000D6AED /* Base */,
-			);
-			name = Info.plist;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		695F286626C256AD000D6AED /* Debug */ = {
+		695F288B26C25DA8000D6AED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		695F286726C256AD000D6AED /* Release */ = {
+		695F288C26C25DA8000D6AED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,41 +277,43 @@
 			};
 			name = Release;
 		};
-		695F286926C256AD000D6AED /* Debug */ = {
+		695F288E26C25DA8000D6AED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6A53CAFMZ9;
 				INFOPLIST_FILE = BitFarm/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.wesley.BitFarm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = dev_bitfarm;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		695F286A26C256AD000D6AED /* Release */ = {
+		695F288F26C25DA8000D6AED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6A53CAFMZ9;
 				INFOPLIST_FILE = BitFarm/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.wesley.BitFarm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = release_bitfarm;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -328,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		695F284E26C256AB000D6AED /* Build configuration list for PBXProject "BitFarm" */ = {
+		695F287326C25DA7000D6AED /* Build configuration list for PBXProject "BitFarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				695F286626C256AD000D6AED /* Debug */,
-				695F286726C256AD000D6AED /* Release */,
+				695F288B26C25DA8000D6AED /* Debug */,
+				695F288C26C25DA8000D6AED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		695F286826C256AD000D6AED /* Build configuration list for PBXNativeTarget "BitFarm" */ = {
+		695F288D26C25DA8000D6AED /* Build configuration list for PBXNativeTarget "BitFarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				695F286926C256AD000D6AED /* Debug */,
-				695F286A26C256AD000D6AED /* Release */,
+				695F288E26C25DA8000D6AED /* Debug */,
+				695F288F26C25DA8000D6AED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 695F284B26C256AB000D6AED /* Project object */;
+	rootObject = 695F287026C25DA7000D6AED /* Project object */;
 }
