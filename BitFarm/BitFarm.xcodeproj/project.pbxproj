@@ -25,7 +25,7 @@
 		695F285E26C256AC000D6AED /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		695F286126C256AC000D6AED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		695F286326C256AD000D6AED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		695F286526C256AD000D6AED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		695F286B26C25806000D6AED /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				695F285E26C256AC000D6AED /* GameViewController.swift */,
 				695F286026C256AC000D6AED /* Main.storyboard */,
 				695F286326C256AD000D6AED /* Assets.xcassets */,
-				695F286526C256AD000D6AED /* Info.plist */,
+				695F286C26C25806000D6AED /* Info.plist */,
 			);
 			path = BitFarm;
 			sourceTree = "<group>";
@@ -156,6 +156,14 @@
 				695F286126C256AC000D6AED /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		695F286C26C25806000D6AED /* Info.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				695F286B26C25806000D6AED /* Base */,
+			);
+			name = Info.plist;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
